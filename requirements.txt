@@ -1,0 +1,5 @@
+Django==2.2.10
+django-background-tasks==1.1.13
+django-compat==1.0.15
+pytz==2018.4
+six==1.11.0
