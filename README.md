@@ -24,7 +24,7 @@ python manage.py runserver
 Register a task (on separate terminal)
 
 ```
-curl -d message=hello http://localhost:8000/api/v1/tasks/
+curl -d http://localhost:8000/api/v1/tasks/
 ```
 
 Process tasks
